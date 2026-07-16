@@ -12,13 +12,13 @@
   git reset --hard 커밋아이디
 
 5. git branch 생성
-  git branch 브랜치명
-  git switch 브랜치명
-  git branch -d 브랜치명
+   git branch 브랜치명
+   git switch 브랜치명
+   git branch -d 브랜치명
 
 6. git merge
-  git switch main
-  git merge add-coach
+   git switch main
+   git merge add-coach
 
 7. github -> repository 생성
    -> github 인증 세팅
@@ -30,6 +30,6 @@
    git push -u origin main
 
 8. git push, git pull
-  git add .
-  git commit
-  git push  => git patch, git pull =>  충돌 발생 => 조정(판단) git add . , git commit
+   git add .
+   git commit
+   git push  => git patch, git pull =>  충돌 발생 => 조정(판단) git add . ,  git commit
